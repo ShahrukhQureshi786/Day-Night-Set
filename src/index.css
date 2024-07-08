@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: lightblue;
+}
+
+
+
+.main{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+
+.greetBox{
+  padding: 30px;
+  background: khaki;
+  font-size: 30px;
+  border-radius: 10px;
+
+}
